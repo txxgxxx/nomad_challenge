@@ -1,3 +1,6 @@
+# locale 때문에 에러가 생기더라고요 VSC나 로컬에서 실행하면 제대로 실행됩니다
+
+
 import os
 import requests
 from bs4 import BeautifulSoup
